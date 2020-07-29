@@ -1,0 +1,3 @@
+# Ignore makefile
+*.make linguist-vendored
+Makefile linguist-vendored
